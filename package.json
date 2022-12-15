@@ -11,6 +11,7 @@
     "client:generate": "nuxt generate",
     "client:preview": "nuxt preview",
     "client:postinstall": "nuxt prepare",
+    "client:test": "jest",
     "server:prebuild": "rimraf dist",
     "server:build": "nest build",
     "server": "nest start",
