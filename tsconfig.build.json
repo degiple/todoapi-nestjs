@@ -4,6 +4,7 @@
     "node_modules",
     "client",
     ".nuxt",
+    ".output",
     "nuxt.config.ts",
     ".nest",
     "**/*spec.ts"
